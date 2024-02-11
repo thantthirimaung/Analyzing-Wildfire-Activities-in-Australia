@@ -34,3 +34,6 @@ The dataset includes the following variables:
 
 https://www.coursera.org/learn/python-for-data-visualization/home/welcome
 
+**Dashboard**
+
+![Screenshot (399)](https://github.com/thantthirimaung/Analyzing-Wildfire-Activities-in-Australia/assets/125528949/eadb98cf-8c41-4256-9fbe-49d6ce86a2f1)
